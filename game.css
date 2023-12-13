@@ -1,0 +1,32 @@
+canvas {
+  background-color: white;
+  display: block;
+  margin: 1em auto;
+  margin-top: 0px;
+}
+
+h1 {
+  color: red;
+  font-family: "Nosifer", cursive;
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+p {
+  color: red;
+  font-size: 1.2em;
+  font-family: "Nosifer", cursive;
+  text-align: center;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+b {
+  color: red;
+  font-size: 0.8em;
+  font-family: "Nosifer", cursive;
+
+  margin: auto;
+  width: 50%;
+}
